@@ -28,7 +28,7 @@ from config import SUPPORT_CHAT, OWNER_ID
 from datetime import datetime
 CLONES = set()
 
-C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @AqiaBot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @DUNEBOTS\n - Sᴜᴘᴘᴏʀᴛ: @DUNE_BOTS"
+C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @Streamvc_bot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @DUNEBOTS\n - Sᴜᴘᴘᴏʀᴛ: @DUNE_BOTS"
 
 C_BOT_COMMANDS = [
                 {"command": "/start", "description": "sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ"},

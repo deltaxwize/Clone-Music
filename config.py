@@ -13,7 +13,7 @@ BOT_ID = getenv("BOT_ID")
 
 # Bot identity
 OWNER_USERNAME = getenv("OWNER_USERNAME", "CURSED_TALES")
-BOT_USERNAME = getenv("BOT_USERNAME", "AqiaBot")
+BOT_USERNAME = getenv("BOT_USERNAME", "Streamvc_bot")
 BOT_NAME = getenv("BOT_NAME", "Aqia")
 ASSUSERNAME = getenv("ASSUSERNAME", "AqiaPro")
 

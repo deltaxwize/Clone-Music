@@ -94,7 +94,7 @@ The Clonify offers a range of commands to enhance your music listening experienc
 | `/queue`                | Display the list of songs in the queue.     |
 | `/clone <bot token>`    | Clone music bot.                            |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
+For a full list of commands, use `/help` in [telegram](https://t.me/Streamvc_bot).
 
 **Note** - Go to [Reload.py](https://github.com/TeamProBots/Clonify/blob/master/Clonify/plugins/tools/reload.py) then change my ID Number.
 
