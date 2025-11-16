@@ -12,7 +12,7 @@ start_txt = """
 ┏━━━━━━━━━━━━━━━━━⧫
 ┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://github.com/TeamProBots/Clonify)  
 ┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [Zᴇᴏ](https://t.me/CURSED_TALES)
-┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [PʀᴏBᴏᴛs](https://t.me/DUNEBOTS)
+┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [𝙳𝚄𝙽𝙴 𝙱𝙾𝚃𝚂](https://t.me/DUNEBOTS)
 ┗━━━━━━━━━━━━━━━━━⧫
 
 __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ʏᴏᴜʀ ᴏᴡɴ!__
