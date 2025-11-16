@@ -12,7 +12,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 
 # Bot identity
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "CURSED_TALES")
 BOT_USERNAME = getenv("BOT_USERNAME", "AqiaBot")
 BOT_NAME = getenv("BOT_NAME", "Aqia")
 ASSUSERNAME = getenv("ASSUSERNAME", "AqiaPro")
